@@ -2,6 +2,8 @@
 
 A simple Bash script that shows basic performance stats for a Linux server.
 
+Project page: https://roadmap.sh/projects/server-stats
+
 ## What it shows
 
 - Total CPU usage (used and idle %)
